@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/782427/4e9d5549f88b491b97457f6b608f5c0f
+bundleId: https://api.rpubs.com/api/v1/document/782427/4e9d5549f88b491b97457f6b608f5c0f
+url: http://rpubs.com/DanWang/782427/edit
+when: 1623891849.25809
+lastSyncTime: 1623891849.25809
